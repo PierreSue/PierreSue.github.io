@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://PierreSue.github.io/authors/admin/</link>
+      <atom:link href="https://PierreSue.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://PierreSue.github.io/img/icon-192.png</url>
+      <title>Academic</title>
+      <link>https://PierreSue.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://PierreSue.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://PierreSue.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m an undergraduate student at the Department of Electrical Engineering, National Taiwan University. My research spanned areas in computational linguistics, signal processing, and computer vision, under the supervision of Prof. Lin-shan Lee (NTU EE), Prof. Hung-yi Lee (NTU EE), and Prof. Yu-chiang Frank Wang (NTU EE).&lt;/p&gt;
+
+&lt;p&gt;I am also an artificial intelligence intern in DeepHow, the first AI company bridging the skills gap in manufacturing, service and repair through an AI-powered knowledge capturing and training platform based on smart how-to videos. I am responsible for the AI algorithm development, which has been deployed to more than 40 Siemens service centers worldwide.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
