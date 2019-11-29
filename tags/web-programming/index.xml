@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Programming | Academic</title>
+    <link>https://PierreSue.github.io/tags/web-programming/</link>
+      <atom:link href="https://PierreSue.github.io/tags/web-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web Programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 13:04:23 +0800</lastBuildDate>
+    <image>
+      <url>https://PierreSue.github.io/img/icon-192.png</url>
+      <title>Web Programming</title>
+      <link>https://PierreSue.github.io/tags/web-programming/</link>
+    </image>
+    
+    <item>
+      <title>Housing Agency System &lt;small&gt;&lt;small&gt;&lt;small&gt;[Python]&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;</title>
+      <link>https://PierreSue.github.io/project/housing-agency-system/</link>
+      <pubDate>Wed, 30 Oct 2019 13:04:23 +0800</pubDate>
+      <guid>https://PierreSue.github.io/project/housing-agency-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion Ceiba &lt;small&gt;&lt;small&gt;&lt;small&gt;[html][node.js][graphql][react.js][mongo]&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;</title>
+      <link>https://PierreSue.github.io/project/fashion-ceiba/</link>
+      <pubDate>Mon, 28 Oct 2019 17:11:09 +0800</pubDate>
+      <guid>https://PierreSue.github.io/project/fashion-ceiba/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

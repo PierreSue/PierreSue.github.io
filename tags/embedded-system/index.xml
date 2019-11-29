@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded System | Academic</title>
+    <link>https://PierreSue.github.io/tags/embedded-system/</link>
+      <atom:link href="https://PierreSue.github.io/tags/embedded-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Embedded System</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 17:10:54 +0800</lastBuildDate>
+    <image>
+      <url>https://PierreSue.github.io/img/icon-192.png</url>
+      <title>Embedded System</title>
+      <link>https://PierreSue.github.io/tags/embedded-system/</link>
+    </image>
+    
+    <item>
+      <title>PokeCan &lt;small&gt;&lt;small&gt;&lt;small&gt;[rpi][C&#43;&#43;][Python][Node.js]&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;</title>
+      <link>https://PierreSue.github.io/project/pokecan/</link>
+      <pubDate>Wed, 30 Oct 2019 17:10:54 +0800</pubDate>
+      <guid>https://PierreSue.github.io/project/pokecan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Door Friend &lt;small&gt;&lt;small&gt;&lt;small&gt;[Rpi][Arduino][Python]&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;</title>
+      <link>https://PierreSue.github.io/project/door-friend/</link>
+      <pubDate>Mon, 28 Oct 2019 21:54:41 +0800</pubDate>
+      <guid>https://PierreSue.github.io/project/door-friend/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

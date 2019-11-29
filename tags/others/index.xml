@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others | Academic</title>
+    <link>https://PierreSue.github.io/tags/others/</link>
+      <atom:link href="https://PierreSue.github.io/tags/others/index.xml" rel="self" type="application/rss+xml" />
+    <description>Others</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 17:10:54 +0800</lastBuildDate>
+    <image>
+      <url>https://PierreSue.github.io/img/icon-192.png</url>
+      <title>Others</title>
+      <link>https://PierreSue.github.io/tags/others/</link>
+    </image>
+    
+    <item>
+      <title>Functionally Reduced And-Inverter Graph (FRAIG) &lt;small&gt;&lt;small&gt;&lt;small&gt;[C&#43;&#43;]&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;</title>
+      <link>https://PierreSue.github.io/project/fraig/</link>
+      <pubDate>Wed, 30 Oct 2019 17:10:54 +0800</pubDate>
+      <guid>https://PierreSue.github.io/project/fraig/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

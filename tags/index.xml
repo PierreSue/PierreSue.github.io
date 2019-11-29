@@ -5,12 +5,44 @@
     <link>https://PierreSue.github.io/tags/</link>
       <atom:link href="https://PierreSue.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 17:10:54 +0800</lastBuildDate>
     <image>
       <url>https://PierreSue.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://PierreSue.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://PierreSue.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 30 Oct 2019 17:10:54 +0800</pubDate>
+      <guid>https://PierreSue.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded System</title>
+      <link>https://PierreSue.github.io/tags/embedded-system/</link>
+      <pubDate>Wed, 30 Oct 2019 17:10:54 +0800</pubDate>
+      <guid>https://PierreSue.github.io/tags/embedded-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Others</title>
+      <link>https://PierreSue.github.io/tags/others/</link>
+      <pubDate>Wed, 30 Oct 2019 17:10:54 +0800</pubDate>
+      <guid>https://PierreSue.github.io/tags/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Programming</title>
+      <link>https://PierreSue.github.io/tags/web-programming/</link>
+      <pubDate>Wed, 30 Oct 2019 13:04:23 +0800</pubDate>
+      <guid>https://PierreSue.github.io/tags/web-programming/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

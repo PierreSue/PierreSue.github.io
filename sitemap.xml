@@ -9,6 +9,34 @@
   </url>
   
   <url>
+    <loc>https://PierreSue.github.io/tags/deep-learning/</loc>
+    <lastmod>2019-10-30T17:10:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://PierreSue.github.io/tags/embedded-system/</loc>
+    <lastmod>2019-10-30T17:10:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://PierreSue.github.io/project/fraig/</loc>
+    <lastmod>2019-10-30T17:10:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://PierreSue.github.io/tags/others/</loc>
+    <lastmod>2019-10-30T17:10:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://PierreSue.github.io/project/pokecan/</loc>
+    <lastmod>2019-10-30T17:10:54+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://PierreSue.github.io/project/</loc>
     <lastmod>2019-10-30T17:10:54+08:00</lastmod>
     <priority>0</priority>
@@ -20,6 +48,12 @@
   </url>
   
   <url>
+    <loc>https://PierreSue.github.io/tags/</loc>
+    <lastmod>2019-10-30T17:10:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://PierreSue.github.io/project/depth-map-generation/</loc>
     <lastmod>2019-10-30T16:28:40+08:00</lastmod>
   </url>
@@ -27,6 +61,12 @@
   <url>
     <loc>https://PierreSue.github.io/project/housing-agency-system/</loc>
     <lastmod>2019-10-30T13:04:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://PierreSue.github.io/tags/web-programming/</loc>
+    <lastmod>2019-10-30T13:04:23+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -106,11 +146,6 @@
   
   <url>
     <loc>https://PierreSue.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://PierreSue.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
